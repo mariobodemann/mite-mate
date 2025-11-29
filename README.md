@@ -1,2 +1,2 @@
 # mite-mate
-A pico calc website mate for Android.
+A pico calc webmite mate for Android.
